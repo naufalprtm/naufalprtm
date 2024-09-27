@@ -37,11 +37,4 @@ I'm a passionate software developer with expertise in various technologies such 
   </a>
 </div>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" style="animation: bounce 1s infinite;" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="animation: bounce 1s infinite 0.1s;" />
-  </a>
-</div>
-
 [![Social banner for jh3y](https://github.com/naufalprtm/git/blob/main/banner.gif)](https://jhey.dev)
