@@ -7,12 +7,12 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,docker,c,java,js,html,css,go,npm,solidity,webpack,yarn" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,docker,cpp,js,html,css,solidity,webpack,yarn" alt="Skills" />
   </a>
 </div>
 
 ## About Me
-I'm a passionate software developer with expertise in various technologies such as Git, Node.js, Docker, C, Java, JavaScript, HTML, CSS, Go, npm, Solidity, Webpack, and Yarn. I love coding and contributing to open-source projects.
+I'm a passionate software developer with expertise in various technologies such as C++ , I love coding and contributing to open-source projects.
 
 ## GitHub Stats
 <div align="center">
@@ -33,7 +33,6 @@ I'm a passionate software developer with expertise in various technologies such 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="animation: spin 2s linear infinite;" />
-    <img src="https://skillicons.dev/icons?i=debian" alt="Debian" style="animation: spin 2s linear infinite reverse;" />
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" style="animation: spin-reverse 2s linear infinite;" />
   </a>
 </div>
